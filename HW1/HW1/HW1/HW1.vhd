@@ -1,0 +1,36 @@
+library ieee;
+use ieee.numeric_bit.all;
+use ieee.std_logic_1164.all;
+
+entity HW1 is
+port(
+	A, B, C : in unsigned(3 downto 0);
+	A_min, B_min, C_min : out std_logic);
+end HW1;
+
+architecture My_ckt_1 of HW1 is
+begin
+	process(A, B, C)
+	begin
+		if A < B and A < C then
+			A_min <= '1';
+			B_min <= '0';
+			C_min <= '0';
+
+		elsif B < A and B < C then
+			A_min <= '0';
+			B_min <= '1';
+			C_min <= '0';
+
+		elsif C < A and C < B then
+			A_min <= '0';
+			B_min <= '0';
+			C_min <= '1';
+			
+		else
+			A_min <= '0';
+			B_min <= '0';
+			C_min <= '0';
+		end if;
+	end process;
+end My_ckt_1;

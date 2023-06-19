@@ -1,0 +1,8 @@
+|HW3
+clk => counter[1].CLK
+clk => counter[0].CLK
+g_light <= g_light~0.DB_MAX_OUTPUT_PORT_TYPE
+y_light <= y_light~0.DB_MAX_OUTPUT_PORT_TYPE
+r_light <= r_light~0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,92 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\10.1sp1
+Eca
+Z0 w1683972106
+Z1 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z2 dE:\RNG
+Z3 8E:/RNG/CA.vhd
+Z4 FE:/RNG/CA.vhd
+l0
+L3
+VR5>Wif3EKPFe>B;[ViOJz2
+Z5 OV;C;6.6d;45
+32
+Z6 o-work work -2002 -explicit -O0
+Z7 tExplicit 1
+!s100 ^WB3UG^ALZj?Lh<1DK28?1
+Abehavior
+R1
+DEx4 work 2 ca 0 22 R5>Wif3EKPFe>B;[ViOJz2
+l11
+L9
+VAD:lWcC8jSoTP5AiZE<?g3
+R5
+32
+Z8 Mx1 4 ieee 14 std_logic_1164
+R6
+R7
+!s100 h[[T>Plhi6MCUKV4`R68Y2
+Erng
+Z9 w1684585634
+Z10 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+R1
+R2
+Z11 8E:/RNG/RNG.vhd
+Z12 FE:/RNG/RNG.vhd
+l0
+L5
+VAA]AEHChEL[<2fbgG^;R]0
+R5
+32
+R6
+R7
+!s100 aPd7>GhP9UgYD^Jab7;jb0
+Astructure
+R10
+R1
+DEx4 work 3 rng 0 22 AA]AEHChEL[<2fbgG^;R]0
+l22
+L11
+VdAMa^l7fjWYm>:IE>B5He0
+R5
+32
+Z13 Mx2 4 ieee 14 std_logic_1164
+Mx1 4 ieee 11 numeric_std
+R6
+R7
+!s100 ZQ@Z27RYdLX;WglUGB^8=0
+Etest_bench_3
+Z14 w1683974097
+Z15 DPx4 ieee 16 std_logic_textio 0 22 8ONYdGiICLK<GeVc1o<IF0
+R1
+Z16 DPx3 std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+R2
+Z17 8E:/RNG/test_bench_3.vhd
+Z18 FE:/RNG/test_bench_3.vhd
+l0
+L6
+Vf_>BZ@MHh2XTd[fYYLlB53
+!s100 h;ei1^QS?_EohG]oA<_Sj2
+R5
+32
+R6
+R7
+Aarch_test
+R15
+R1
+R16
+Z19 DEx4 work 12 test_bench_3 0 22 f_>BZ@MHh2XTd[fYYLlB53
+l24
+L9
+Z20 VXM@Pi`iO^;KfIY0WkNRZj1
+Z21 !s100 P`S>27=dUUhPDfn`EL^B[1
+R5
+32
+Z22 Mx3 3 std 6 textio
+R13
+Z23 Mx1 4 ieee 16 std_logic_textio
+R6
+R7
